@@ -74,6 +74,11 @@
  .intro-container {
      font-family: 'Cormorant Garamond', serif;
     font-size: 18px;
+     width: 80%;
+    padding: 50px 0;
+    margin: 50px auto;
+    position: relative;
+    overflow: hidden;
 }
 
  .container {
