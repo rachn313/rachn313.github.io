@@ -71,6 +71,11 @@
     font-family: 'Fredoka One', cursive;
  }
  
+ .intro-container {
+     font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;
+}
+
  .container {
     width: 80%;
     padding: 50px 0;
